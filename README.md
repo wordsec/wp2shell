@@ -97,7 +97,6 @@ python wp2shell.py https://target.example -q || echo "review this host"
 Run this **only** against systems you own or are explicitly authorized to test.
 You are responsible for complying with all applicable laws and agreements.
 
-
 ## License
 
 MIT
